@@ -5,7 +5,10 @@
 
 
 num=int(input("enter the number"))
+pattern=""
+total=0
 for i in range(1,(num+1)):
-    sum=str(num)*i
-    print(sum)
-    print
+    pattern=str(num)*i
+    total+=int(pattern)
+print(total)
+
