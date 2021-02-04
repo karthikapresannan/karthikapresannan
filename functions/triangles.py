@@ -1,0 +1,1 @@
+num=int9input("enter the nu")
