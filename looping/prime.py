@@ -6,7 +6,7 @@ for i in range(2,num):
          flg=1
          break
 else:
-    flg=0
+        flg=0
 if(flg==0):
     print("prime")
 else:

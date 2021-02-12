@@ -1,14 +1,8 @@
-lst=[2,4,6]
-total=sum(lst)
-print("sum=",total)
-for num in lst:
-    print(total-num)
-
 employees=[
 [101,"anu","developer",2500,1989,1999],
-[101,"ammu","testing",24000,1990,2005],
+[101,"meera","testing",24000,1990,2005],
 [103,"achu","ba",21000,1975,1988],
-[104,"meera","ba",20000,1990,1999]
+[104,"ammu","ba",20000,1990,1999]
 ]
 for employee in employees:
      print(employee[1])
