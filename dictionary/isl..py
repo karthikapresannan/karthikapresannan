@@ -1,0 +1,1 @@
+isl={"MI":34,"ATK":34,"GOA":23,"HYDERABAD":16}
