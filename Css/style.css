@@ -1,0 +1,12 @@
+/* tagname or classname or id{
+    property:value;
+}*/
+h1{
+    color: blue;
+}
+h2{
+    color:rgb(89, 103, 125);
+    
+}
+h3{ color:#59677d;
+}

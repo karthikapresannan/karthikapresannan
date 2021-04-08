@@ -3,3 +3,7 @@ total=0
 for num in nums:
     if (num%2==0):
         print(num)
+
+        # 10
+        # 12
+        # 14

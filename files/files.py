@@ -1,4 +1,4 @@
-f=open("demo","r")
+f=open("demo","reg")
 lst=[]
 for lines in f:
     lst.append(lines.rstrip("\n"))

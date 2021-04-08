@@ -1,0 +1,21 @@
+div{
+    border: 2px solid rgb(236, 13, 13);
+    color: darkblue;
+    background-color: rgb(215, 135, 235);
+    width: 40%;
+    margin-left: 32%;
+}
+#top{
+    margin-top: 5%;
+}
+#bottom{
+    margin-top: 20%;
+}
+#top h1{
+    position: relative;
+    left: 30%;
+}
+#bottom h2{
+    position: relative;
+    left: 30%;
+}

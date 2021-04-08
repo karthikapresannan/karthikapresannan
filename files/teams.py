@@ -1,5 +1,5 @@
-f1=open("teams","r")
-f2=open("drops","r")
+f1=open("teams","reg")
+f2=open("drops","reg")
 st1=set(f1)
 st2=set(f2)
 lst=[]

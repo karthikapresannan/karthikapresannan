@@ -1,4 +1,4 @@
-f=open("words", "r")
+f=open("words", "reg")
 lst=[]
 for lines in f:
     words=lines.rstrip("\n").split(" ")

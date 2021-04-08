@@ -1,0 +1,23 @@
+.main{
+background-color:white;
+height: 500px;
+width: 100px; 
+}
+.container{
+  color: rgb(181, 13, 223);
+    width: 100px;
+    height: 30px;
+    text-align: left;
+background-color: purple;
+    }
+
+    h1{
+color: purple;
+    }
+
+    a:link{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    }
+    

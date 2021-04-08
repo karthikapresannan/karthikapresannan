@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(194, 182, 206);
+}
+.headone{
+
+color: #450461;
+text-align: center;
+text-decoration: underline;
+}
+div{
+    border: solid;
+    color:#f5f6f7;
+    height: 350px;
+    width: 30%;
+    background-color: rgb(44, 19, 90);
+    float: left;
+}
+img{
+    width: 60%;
+}

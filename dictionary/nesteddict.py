@@ -1,5 +1,5 @@
 import json
-f=open("covid_19","r")
+f=open("covid_19","reg")
 dict={}
 for lines in f:
     words=lines.rstrip("\n").split(",")

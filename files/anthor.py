@@ -1,4 +1,4 @@
-ft=open("teams","r")
+ft=open("teams","reg")
 fd=open("drops")
 def get_team_set(f):
     st=set()

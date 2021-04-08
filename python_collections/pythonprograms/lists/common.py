@@ -1,9 +1,10 @@
-list1=[10,11,12,13]
-eres=[]
-for i in list1:
-    for j in list2:
+list=[15,11,15,13]
+res=[]
+for i in list:
+    for j in list:
         if i==j:
             res.append(i)
+print(res)
 
 
 
